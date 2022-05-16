@@ -5,7 +5,7 @@
 #define FIREBASE_AUTH "KiGeHghZn3i6K2y7EeaJcjgInV8dWcg6d557jCod" 
 #define FIREBASE_HOST "nutriotion-30c8c-default-rtdb.asia-southeast1.firebasedatabase.app/"
 #define WIFI_SSID " ashutosh"
-#define WIFI_PASSWORD " 12345678"
+#define WIFI_PASSWORD "12345678"
 
 String values,sensor_data;
 

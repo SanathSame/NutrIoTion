@@ -1,5 +1,5 @@
-#define gas_sensor1Pin A1 
-#define gas_sensor2Pin A2 
+#define gas_sensor1Pin A1
+#define gas_sensor2Pin A2
 
 int trigger_pin = 2;
 int echo_pin = 3;
